@@ -4,7 +4,6 @@ import { Course } from './../model/course';
 import { AppMaterialModule } from '../../shared/app-material/app-material.module';
 import { CoursesService } from '../services/courses.service';
 import { Observable } from 'rxjs';
-import { CommonModule } from '@angular/common';
 
 
 

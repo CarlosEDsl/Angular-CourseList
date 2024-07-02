@@ -1,3 +1,4 @@
 [
-  {"_id": "1", "name": "Springboot", "category": "Back-End"}
+  {"_id": "1", "name": "Springboot", "category": "Back-End"},
+  {"_id": "2", "name": "Angular", "category": "Front-End"}
 ]
