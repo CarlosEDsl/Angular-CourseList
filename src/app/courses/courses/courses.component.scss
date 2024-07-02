@@ -7,3 +7,11 @@ mat-card{
   border-radius: 0;
   background-color: rgb(116, 87, 191);
 }
+
+.loading-spinner{
+  background: rgba($color: #c7c7c7, $alpha: 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
